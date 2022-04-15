@@ -77,6 +77,13 @@
     .social_link{text-align: center!important;}
     footer{ text-align: center;}
   }
+
+.col-md-auto a{
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-inline-end: auto;
+}
   
   @media screen and (max-width: 600px) {
     #tokenomics {
