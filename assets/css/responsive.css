@@ -16,11 +16,15 @@
         font-size: 7vh;
      
     }
+    #intro {
+     min-height: 1280px;
+     margin-bottom:20vh ;
+  }
     #features{
         margin-top:50px
       }
     #features .row.head img {
-        max-width: 350px;
+        max-width: 310px;
         margin: auto;
         mix-blend-mode: lighten;
         display: inline-block;
@@ -58,8 +62,8 @@
        
         margin: 15px 0;
     }
-    .roadmap h2 {
-        font-size: 8vh;
+    .roadmap h2, #partnership h2 {
+        font-size: 7vh;
         margin-top: 52px;
         margin-bottom: 80px;
     }
